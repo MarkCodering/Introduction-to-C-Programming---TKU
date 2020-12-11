@@ -1,4 +1,4 @@
-# Welcome to the introduction to C programming with computational thinking
+# Introduction to C programming with Computational Thinking
 
 ## Introduction
 ### Objectives
