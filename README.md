@@ -1,7 +1,7 @@
-### Welcome to the introduction to C programming with computational thinking
+# Welcome to the introduction to C programming with computational thinking
 
 ## Introduction
-# Objectives
+### Objectives
 
-# Outline
+### Outline
 - HW (1, 2, 3, i++)
