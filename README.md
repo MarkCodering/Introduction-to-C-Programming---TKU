@@ -7,7 +7,5 @@ Feel free to step on the journey of computer science!!
 
 Are you ready?
 
-#### Objectives
-
 #### Outline
 - HW (1, 2, 3, i++)
