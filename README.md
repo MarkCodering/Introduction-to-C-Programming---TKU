@@ -9,3 +9,4 @@ Are you ready?
 
 #### Outline
 - HW (1, 2, 3, i++)
+- Practice Class (By date)
